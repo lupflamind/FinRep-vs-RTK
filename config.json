@@ -1,0 +1,9 @@
+{
+    "repository": "fin-rep-vs-RTK",
+    "file1": "input_files/SpPos_et_RTK.txt",
+    "file2": "input_files/SpPos_et_FinRep.txt",
+    "prefix": "SpPos_et",
+    "suffix1": "RTK",
+    "suffix2": "FinRep",
+    "key_columns": ["Currency", "Deal Id"]
+}
